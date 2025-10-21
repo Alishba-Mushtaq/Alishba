@@ -6,8 +6,9 @@
 </p>
 <!-- Header Cover Image -->
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/141602312/453890828-007af590-2199-4e80-bea8-6063edd0bf7a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk2NDExODUsIm5iZiI6MTc0OTY0MDg4NSwicGF0aCI6Ii8xNDE2MDIzMTIvNDUzODkwODI4LTAwN2FmNTkwLTIxOTktNGU4MC1iZWE4LTYwNjNlZGQwYmY3YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYxMVQxMTIxMjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NzQwN2Q2NjgzZGMzZjU2NDY2Y2Y3YmE5MGI1NjliYzIyNGRhMTVkYTY1YmVhZTRjMDJiM2Y1OGQ1OTRmZGFiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-aB9H9aduRJKf2M9KgvRl2eyqnwaibg6akS5J0aiIDw" alt="GitHub Cover" width="100%">
+  <img src="assets/Banner-Finnace.jpg" alt="GitHub Cover" width="100%"height="20%">
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alishbamushtaq&label=Profile%20views&color=0e75b6&style=flat">
