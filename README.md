@@ -1,139 +1,162 @@
-<a name="top"></a>
-![GITHUB COVER BEST](https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-banner.png)
-<p align="right">
-    <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-hacker.gif" width="30" title="Cloning this might summon the hacker cat spirit 🐱‍💻" alt="Hacker GIF" />
-    <img src="https://komarev.com/ghpvc/?username=muhammadowaismushtaq&label=Profile%20views&color=0e75b6&style=flat">
-    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/muhammadowaismushtaq?">
+<p align="center">
+  <img src="https://img.shields.io/badge/-Power%20BI-yellow?logo=powerbi&style=for-the-badge" height="30">
+  <img src="https://img.shields.io/badge/-Excel-green?logo=microsoftexcel&style=for-the-badge" height="30">
+  <img src="https://img.shields.io/badge/-QuickBooks-blue?logo=intuit&style=for-the-badge" height="30">
+  <img src="https://img.shields.io/badge/-Mendeley-red?logo=mendeley&style=for-the-badge" height="30">
 </p>
-<div class="d-flex flex-column justify-content-center align-items-center w-100" *ngIf="bio$ | async as bio">
-    <div class="d-flex flex-column min-vh-95 justify-content-center align-items-center w-100">
-        <h1>Hi <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-hello-1.gif" width="30" title="اَلسَّلَامُ عَلَيْكُم وَرَحْمَةُ اَللهِ وَبَرَكاتُهُ" alt="Hi GIF" />, <b>Owais here!</b></h1>
-<img align="right" alt="GIF" height="210px" src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-workspace.gif" />
-        
-- 👨‍💻 **Builder of Software & Teams** | Crafting products that scale & teams that grow
-- 🧭 Turning complex ideas into production-ready systems with clean architecture
-- 💼 SSDE @ Matrix Systems | Leading Agile teams & cloud-native delivery <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-coding-cat.gif" width="30" title="Don't disturb me, I have a release coming up!" alt="Release incoming GIF" />
--  <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-globe.gif" width="18" title="Tech beyond borders" alt="Globe"/> Karachi, Pakistan | ✉️ Let’s connect ⤵  
+<!-- Header Cover Image -->
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/141602312/453890828-007af590-2199-4e80-bea8-6063edd0bf7a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk2NDExODUsIm5iZiI6MTc0OTY0MDg4NSwicGF0aCI6Ii8xNDE2MDIzMTIvNDUzODkwODI4LTAwN2FmNTkwLTIxOTktNGU4MC1iZWE4LTYwNjNlZGQwYmY3YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYxMVQxMTIxMjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NzQwN2Q2NjgzZGMzZjU2NDY2Y2Y3YmE5MGI1NjliYzIyNGRhMTVkYTY1YmVhZTRjMDJiM2Y1OGQ1OTRmZGFiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-aB9H9aduRJKf2M9KgvRl2eyqnwaibg6akS5J0aiIDw" alt="GitHub Cover" width="100%">
+</p>
 
-<div align="justify">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alishbamushtaq&label=Profile%20views&color=0e75b6&style=flat">
+</p>
+<h1 align="center">Hi 👋, I'm Alishba Mushtaq</h1>
+<h3 align="center"> Finance Graduate | Business Analyst | Data Visualization Specialist</h3>
 
-[![Linkedin](https://img.shields.io/badge/-Connect-%230072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadowaismushtaq/)
-[![github](https://img.shields.io/badge/-Follow-%23ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_owaismushtaq/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=globe&logoColor=white)](https://muhammadowaismushtaq.github.io/)
-[![github](https://img.shields.io/badge/-Streak-%23FDFF70?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/m_owaismushtaq/)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Business+%26+Finance+Analyst;Power+BI+%7C+QuickBooks+%7C+Excel;Lover+of+Dashboards+%26+Insights" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alishbamushtaq" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:alishba-mushtaq@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Me%20Directly-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://drive.google.com/file/d/1cI4TrkYmnF9C0CWeWCfndsG7QpnGDjqf/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-Download%20PDF-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
+  </a>
+</p>
+
+---
 
 
-<!--- [![github](https://img.shields.io/badge/-Follow-%2300acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/m_owaismushtaq/)-->
-      
+### 🌟 Professional Philosophy
+<p align="center">
+  "I believe financial data tells a story - my expertise lies in translating complex numbers into clear, actionable business insights that drive strategic decisions."
+</p>
+
+---
+<img align="right" alt="GIF" height="200px" src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-workspace.gif" />
+
+
+### 💼 About Me
+
+- 📊 Finance & Business Analyst with a passion for turning data into insight
+- 📈 Skilled in **Power BI, Excel Dashboards, QuickBooks, Ratio & Trend Analysis**
+- 🧠 Interested in **investment, business intelligence, and operational strategy**
+- 🤝 I love creating **client-focused financial solutions** and improving internal processes
+- 🎯 Currently exploring **Data Analytics, NBFCs performance, and Shariah-compliant finance**
+  
+
+---
+
+### 🎓 Education & 💼 Experience
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SZABIST-BS%20Accounting%20%26%20Finance-blue?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cordoba%20Financial%20Services%20 Limited-Operations%20&%20Business%20Analyst-blueviolet?style=for-the-badge&logo=data&logoColor=white" />
+  <img src="https://img.shields.io/badge/DealCart-Finance%20Intern-orange?style=for-the-badge&logo=handshake&logoColor=white" />
+</p>
+
+---
+
+### 📚 Certifications
+
+<p align="center"> <img src="https://img.shields.io/badge/Google%20Data%20Analytics-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Advanced%20Data%20Analytics-In%20Progress-34A853?style=for-the-badge&logo=google&logoColor=white"/> </p>
+
+---
+<div align="center">
+  <p>Write something nice in my guest book 💬 
+    <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-smile.gif" 
+         width="20" 
+         title="Your words make my day 😊" 
+         alt="Smile" />
+  </p>
+  <a href="https://github.com/Alishba-Mushtaq/Alishba-Mushtaq/issues">
+    <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-guestbook.gif" 
+         alt="Guest book" 
+         align="center">
+  </a>
 </div>
-</div> 
 
-# 💻Tech Stack <img src = "https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-skills.gif" width = 32px> 
-<!--- ## My favorite tools and technologies ⚙️ -->
+---
+### 🛠️ Tools & Technologies
 
-> Tools and technologies that I have worked with and am interested in
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-      <br>Java
+      <img src="https://img.icons8.com/color/96/microsoft-office-2019.png" width="48"/><br><b>MS Office</b>
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="springboot" />
-      <br>Spring Boot
-    </td>                                                                                                                 
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>Rest APIs
+      <img src="https://img.icons8.com/color/96/power-bi.png" width="48"/><br><b>Power BI</b> 
     </td>
-       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-angular-logo.gif" width="48" height="48" alt="Angular" />
-      <br>Angular
-    </td>  
-       <td align="center" width="96"> 
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-       <br>MySQL
-    </td> 
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="Cpp" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <a href="#macropower-tech">
-          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-        </a>
-        <br>Python
-      </td>                                                                                                         
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="Tensorflow" />
-        <br>Tensorflow
-      </td>
- </tr>                                                                                                        
- <tr> 
- <!---
- <td align="center" width="96">
-     <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="csharp" width="65" height="65" />
-      <br>C#
-    </td>                                                                                                      
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="dotnet" />
-      <br>Dot Net
-    </td>   --->   
-    <td align="center"  width="96">
-        <img  src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-html-logo.gif" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>                                                                                  
-    <td align="center" width="96">
-        <img  src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-css-logo.gif" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>                                                                               
      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>                                                                                 
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
-      <br>Github
+      <img src="https://img.icons8.com/color/96/tableau-software.png" width="48"/><br><b>Tableau</b>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="AWS" />
-      <br>Google Cloud
-    </td>  
+      <img src="https://img.icons8.com/color/96/shopify.png" width="48"/><br><b>Shopify</b>
+    </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-       <!--- <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /> --->
-      <br>AWS
-    </td>                                                                                                                                                 
+      <img src="https://img.icons8.com/ios-filled/50/github.png" width="40"/><br><b>GitHub</b>
+    </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
-    </td>                                                                                                                                                  
-    <td align="center" width="96">    
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" alt="Angular" />
-        <br>Kubernetes
-    </td>    
-  </tr>
+      <img src="https://img.icons8.com/color/96/google-data-studio.png" width="48"/><br><b>Data Studio</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/96/canva.png" width="48"/><br><b>Canva</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/96/google-sheets.png" width="48"/><br><b>Sheets</b>
+      </td>  
+  <td align="center" width="96">
+    <img src="https://img.shields.io/badge/-QuickBooks-blue?logo=intuit&style=for-the-badge"height="30"><br><b>QuickBooks</b>
+  </td>
+ <td align="center" width="96">
+    <img src="https://img.shields.io/badge/-Mendeley-red?logo=mendeley&style=for-the-badge"height="30"><br><b>Mendeley</b>
+  </td>
 </table>
 
-#
-<div align="center">
-<p>Write something nice in my guest book <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-smile.gif" width="20" title="Tech beyond borders" alt="Smile" /></p>
-<a href="https://github.com/muhammadowaismushtaq/muhammadowaismushtaq/issues"><img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-guestbook.gif" alt="Guest book" align="center"></a>
-</div>
+---
+## 🚀 Featured Projects
 
-#
+| 📁 Project Name | 🔍 Description |
+|----------------|----------------|
+| [📘 Financial Reporting Using QuickBooks](https://github.com/Alishba-Mushtaq/Financial-Reporting-Using-Quickbooks) | Automated Balance Sheet, Profit & Loss, and Cash Flow reports using QuickBooks. |
+| [📊 Power BI Dashboards](https://github.com/Alishba-Mushtaq/PowerBi-Dashboards) | Visualized 1,000-restaurant data with dashboards on market trends, operations, and satisfaction. |
+| [📈 Financial Performance Analysis ](https://github.com/Alishba-Mushtaq/Financial-Performance-Analysis) | Conducted vertical, horizontal, and ratio analysis of 12 Companies over three years using Excel. |
+| [📉 Performance of Mutual Funds – Research Paper](https://github.com/Alishba-Mushtaq/Performance-of-Mutual-Funds_Research-Paper) | Used regression and risk-return metrics to evaluate Indian mutual fund performance. |
+| [🧮 Financial Model & Valuation – Lucky Cement](https://github.com/Alishba-Mushtaq/Excel-Financial-Model-Valuation) | Built a dynamic financial model and DCF valuation using forecasting and Excel automation. |
+
+---
+
+### 📫 Contact Me
+
+- ✉️ Email: [alishba-mushtaq@outlook.com](mailto:alishba-mushtaq@outlook.com)  
+- 💼 LinkedIn: [linkedin.com/in/alishbamushtaq](https://www.linkedin.com/in/alishbamushtaq)  
+
+---
 
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadowaismushtaq&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) <br/>
-![Owais's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadowaismushtaq&show_icons=true&include_all_commits=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) <br/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadowaismushtaq&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Owais's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadowaismushtaq&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alishba-Mushtaq&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
+![Alishba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alishba-Mushtaq&show_icons=true&include_all_commits=true&count_private=true&title_color=fff&icon_color=FFD700&text_color=9f9f9f&bg_color=151515)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alishba-Mushtaq&theme=dark&background=000000)](https://git.io/streak-stats)  
+[![Alishba's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alishba-Mushtaq&bg_color=18122B&color=FAD02E&line=FAD02E&point=FFFFFF&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-pacman-contribution-graph.svg" alt="pacman-contribution-graph"/>
-<div align="center"> <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-thanks.svg" alt="thanks"/> </div>
+</details>
+<!-- Fun Contribution Graph & Thanks -->
+<img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-pacman-contribution-graph.svg" 
+     alt="pacman-contribution-graph"/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-thanks.svg" 
+       alt="Thanks for visiting!" width="600"/>
+
 <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-footer-3.gif" alt="footer"/>
 <div>
 	<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
@@ -170,6 +193,11 @@
 	
 ### Show some ❤️ by starring some of the repositories!
 </div>
- 
-  
 
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alishba-Mushtaq&label=Profile%20views&color=0e75b6&style=flat" alt="Alishba-Mushtaq" />
+</p>
+
+---
