@@ -6,7 +6,7 @@
 </p>
 <!-- Header Cover Image -->
 <p align="center">
-  <img src="assets/Banner-Finnace.jpg" alt="GitHub Cover" width="100%"height="20%">
+  <img src="assets/Bannee.jpg" alt="GitHub Cover" width="100%"height="20%">
 </p>
 
 
@@ -41,7 +41,7 @@
 </p>
 
 ---
-<img align="right" alt="GIF" height="200px" src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-workspace.gif" />
+<img align="right" alt="GIF" height="200px" src="assets/Finance Desk.gif" />
 
 
 ### 💼 About Me
